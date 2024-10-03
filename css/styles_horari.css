@@ -1,0 +1,50 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #5a0447;
+}
+th {
+    background-color: #b9c2db;
+}
+td.SOX {
+    background-color: #088000;
+    color: #FFFFFF;
+}
+
+td.sx {
+    background-color: #290087;
+    color: #FFFFFF;    
+}
+
+td.Seguretat {
+    background-color: #84818E;
+    color: #FFFFFF;    
+}
+
+td.eie {
+    background-color: #4ABD8C;
+    color: #FFFFFF;    
+}
+
+td.aw {
+    background-color: #8DEE00;
+    color: #FFFFFF;    
+}
+
+td.pati {
+    text-align: center;
+    background-color: #d86b2c;
+}
+
+td.grup {
+    text-align: center;
+    background-color: #C6CBCF;
+}
+
+td.hora {
+    background-color: #D8AAE3;
+}
