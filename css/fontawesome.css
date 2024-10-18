@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.tab-1:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.tab-2:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.tab-3:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.tab-4:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.tab-5:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.tab-6:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.tab-container-1 {
+    background-color: #312B2B;
+    color: #C3BEBE;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5rem;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+body {
+    background-color: #B07F00;
+}
